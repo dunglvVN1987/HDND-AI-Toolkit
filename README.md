@@ -18,6 +18,11 @@ Bộ mẫu lệnh và bảng kiểm hỗ trợ công tác tham mưu của Hội 
 | Xác minh cơ sở và thẩm quyền | [Rà soát pháp lý](mau-lenh/ra-soat-phap-ly.md) |
 | Soạn thảo, phản biện và đánh dấu sửa đổi | [Văn bản HĐND](mau-lenh/soan-thao-van-ban.md) |
 | Kiểm tra chương trình và điều hành | [Kỳ họp](mau-lenh/ky-hop.md) |
+| Theo dõi kiến nghị và kết quả từng cơ sở, dự án | [Sau giám sát](mau-lenh/theo-doi-sau-giam-sat.md) |
+| Tổng hợp, tiếp thu và giải trình ý kiến | [Tiếp thu, giải trình](mau-lenh/tiep-thu-giai-trinh.md) |
+| Lập biên bản và dự thảo thông báo kết luận | [Biên bản, kết luận](mau-lenh/bien-ban-ket-luan.md) |
+| Rà soát phân công và văn bản chi bộ | [Công tác Đảng](mau-lenh/cong-tac-dang.md) |
+| Rà soát danh mục sản phẩm và thời gian xử lý | [Danh mục công việc](mau-lenh/danh-muc-cong-viec.md) |
 
 Các mẫu là khung khởi đầu, cần điều chỉnh theo cấp HĐND, hồ sơ và quy định hiện hành. Không mặc định văn bản hoặc thẩm quyền trong mẫu là đúng cho mọi thời điểm.
 
