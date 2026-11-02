@@ -26,6 +26,12 @@ Bộ mẫu lệnh và bảng kiểm hỗ trợ công tác tham mưu của Hội 
 
 Các mẫu là khung khởi đầu, cần điều chỉnh theo cấp HĐND, hồ sơ và quy định hiện hành. Không mặc định văn bản hoặc thẩm quyền trong mẫu là đúng cho mọi thời điểm.
 
+## Cải tiến cách làm
+
+- [Học phong cách và phản biện](huong-dan/hoc-phong-cach-va-phan-bien.md): rút quy tắc từ bản đã chốt, thử trên đoạn mới và cập nhật có lịch sử.
+- Mẫu rà soát pháp lý bổ sung bảng mức độ kiểm chứng căn cứ.
+- Mẫu soạn thảo bổ sung cách tách mục tiêu, giải pháp, kết quả và kiến nghị; phản biện theo chứng cứ, tính khả thi và hành văn.
+
 ## Bảo mật và trách nhiệm
 
 Kho này **công khai**. Không đưa lên kho hoặc dịch vụ AI tài liệu mật, thông tin cá nhân, hồ sơ nội bộ chưa được phép chia sẻ, tài khoản, mật khẩu hay dữ liệu thực tế nhạy cảm. Áp dụng quy định của cơ quan và phân loại tài liệu trước khi sử dụng. Không coi kết quả AI là căn cứ pháp lý hoặc kết luận chính thức khi chưa được kiểm chứng.
