@@ -16,3 +16,16 @@ Không bịa số hiệu, điều khoản, trích dẫn hay đường dẫn. Ch�
 ```
 
 **Kiểm tra:** mở trực tiếp văn bản gốc và văn bản sửa đổi; kiểm tra ngày hiệu lực, điều khoản chuyển tiếp và thẩm quyền trong bối cảnh vụ việc.
+
+## Bổ sung: bảng kiểm chứng căn cứ và phạm vi kết luận
+
+Có thể nối đoạn lệnh sau vào mẫu chính:
+
+```text
+Trước khi kiến nghị, lập bảng kiểm chứng: vấn đề cần xác định | quy định dự kiến áp dụng | nguồn/toàn văn thực sự đã đọc | điều khoản | mốc áp dụng | tình trạng hiệu lực và căn cứ xác minh | kết quả đối chiếu tình tiết | mức độ kiểm chứng | việc cần xác minh tiếp.
+
+Phân loại: (A) đã đối chiếu toàn văn và có căn cứ xác định hiệu lực tại mốc áp dụng; (B) đã đọc văn bản nhưng chưa xác minh đủ hiệu lực, chuyển tiếp hoặc tình tiết; (C) mới được nhắc trong hồ sơ hoặc kết quả tìm kiếm, chưa đọc toàn văn. Phân loại này là công cụ làm việc, không phải chuẩn pháp lý chính thức.
+Không sử dụng nhóm B/C để khẳng định nghĩa vụ pháp lý dứt khoát. Không coi tên/số hiệu văn bản, bản tóm tắt hoặc kết quả tìm kiếm là bằng chứng đã kiểm chứng.
+Tách kết quả thành: quy định trực tiếp; nhận định áp dụng vào vụ việc và lý do; phương án đề xuất; điểm chưa thể kết luận.
+Khi rà soát danh mục chính sách/nghị quyết, phân biệt nội dung bắt buộc thực hiện theo quy định đã kiểm chứng, nội dung được lựa chọn theo điều kiện và nội dung đã có văn bản điều chỉnh. Kiểm tra phạm vi, đối tượng và hiệu lực trước khi kết luận cần ban hành mới; tránh đếm một chính sách ở nhiều nhóm.
+```
