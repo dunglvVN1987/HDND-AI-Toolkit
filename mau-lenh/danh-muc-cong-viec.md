@@ -18,3 +18,13 @@ Không tạo minh chứng, kết quả công việc hay định mức đã đư�
 ```
 
 **Kiểm tra:** xác nhận với người thực hiện; đối chiếu minh chứng, quy định thời hạn và tính đầy đủ của các dòng trong tệp.
+
+## Tách bảng rà soát và bảng nhập chính thức
+
+```text
+Đối chiếu [bảng đề xuất] với [biểu gốc] theo mã dòng và kỳ dữ liệu. Tạo hai đầu ra: (A) bảng rà soát giữ toàn bộ đề xuất; (B) bảng nhập giữ đúng cột, thứ tự và kiểu dữ liệu của biểu gốc, chỉ chứa thay đổi đã xác nhận.
+
+Trong bảng A, với mỗi mã đề xuất, ghi dòng gốc liên quan, hướng xử lý (chuẩn hóa/làm rõ/bổ sung có điều kiện/không nhập), minh chứng giao việc, đầu ra độc lập, căn cứ về sản lượng hoặc thời gian và trạng thái xác nhận. Nếu cùng một bộ hồ sơ có bảng, dự thảo, báo cáo hoặc nhiều lượt cập nhật, chỉ tính riêng khi có căn cứ về phần việc hoặc sản phẩm độc lập và không tính lại giờ đã ghi.
+Không đưa số lượng, số giờ, độ khó hoặc tên người thực hiện chưa xác nhận vào bảng B. Giữ ô chưa biết ở trạng thái chưa xác nhận trong bảng A; không thay bằng 0. Nếu chưa có phê duyệt, xuất bảng A và biểu trống hoặc danh sách dòng đủ điều kiện để người phụ trách xác nhận.
+Cuối cùng, kiểm đếm theo từng hướng xử lý, đối chiếu mã giữa hai bảng và ghi rõ dòng nào chưa nhập, lý do và bằng chứng còn thiếu.
+```
