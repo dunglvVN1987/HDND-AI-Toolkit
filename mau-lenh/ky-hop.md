@@ -13,3 +13,14 @@ Tài liệu: [danh mục]. Mốc rà soát: [ngày]. Không tự bịa nội dun
 ```
 
 **Kiểm tra:** cập nhật lại theo chương trình và hồ sơ cuối cùng; đối chiếu thứ tự, người trình và thời gian với bộ phận tổ chức.
+
+## Đối chiếu danh mục qua nhiều phiên bản
+
+```text
+Đối chiếu [kế hoạch kỳ họp], [đăng ký và điều chỉnh của cơ quan trình], [ý kiến thẩm tra], [văn bản của cơ quan có thẩm quyền] và [kết quả kỳ họp đã xác minh] tại [ngày chốt].
+
+1. Gán một mã cho mỗi nội dung; nối tên cũ/mới nếu cùng phạm vi và đối tượng. Nếu có dấu hiệu gộp hoặc tách, ghi quan hệ giữa các mã và để người rà soát xác nhận.
+2. Lập bảng: mã | danh mục gốc | thay đổi đề nghị | văn bản và vị trí nguồn | tình trạng hồ sơ | ý kiến hoặc quyết định đã xác minh | kỳ họp đích | việc cần làm rõ.
+3. Ghi riêng trạng thái đề nghị, đã có hồ sơ, đã thống nhất đưa vào chương trình và đã được thông qua/ban hành; chỉ nâng trạng thái khi có nguồn xác nhận. Mâu thuẫn hoặc thiếu nguồn thì giữ cả hai thông tin kèm ngày và đề nghị xác minh.
+4. Đối chiếu số đầu kỳ + bổ sung − rút/chuyển/đã xử lý = số còn lại trong cùng phạm vi và mốc chốt. Liệt kê mã tạo chênh lệch. Tách báo cáo với dự thảo nghị quyết, phân biệt danh mục dự kiến với danh mục đã được quyết định.
+```
