@@ -16,3 +16,13 @@ Hồ sơ: [liệt kê]. Nội dung cần ưu tiên: [điền].
 ```
 
 **Kiểm tra:** đối chiếu văn bản của Đảng và quy chế hiện hành từ nguồn được phép; bảo đảm xử lý thông tin đảng viên theo quy định cơ quan.
+
+## Rà soát chuỗi công văn tham mưu và tham gia ý kiến
+
+```text
+Đọc lần lượt [văn bản giao việc], [bản tham mưu], [ý kiến của cơ quan trung gian] và [dự thảo trả lời]. Với mỗi vấn đề, lập bảng: hồ sơ gốc | bản/mục | cơ quan ban hành | nơi nhận | chủ thể phát biểu | động từ thể hiện ý kiến | mức độ thống nhất và điều kiện | chủ thể xử lý tiếp | căn cứ.
+
+Ở mỗi bản, đối chiếu trích yếu, ký hiệu, ngày, nơi nhận và lời kết; kiểm tra câu lấy từ bản trước có còn đúng người phát biểu và vai trò hay phải ghi rõ là dẫn lại ý kiến. Phân biệt tham mưu, báo cáo, tham gia ý kiến, đề nghị, giao nhiệm vụ và quyết định; không thay đổi mức độ thống nhất hoặc coi ý kiến cấp trước là quyết định cấp sau. Chỉ kết luận về thẩm quyền khi đã kiểm tra căn cứ áp dụng.
+
+Đưa bảng nguyên văn – đề nghị sửa – lý do – nguồn. Nếu có hai cách hiểu (ý kiến của bên ban hành hay dẫn lại ý kiến), nêu cả hai và cách viết tương ứng. Kiểm tra nội dung và thẩm quyền trước, chính tả và thể thức sau. Dùng quy ước đánh dấu do người dùng chỉ định cho hồ sơ đó.
+```
