@@ -30,3 +30,13 @@ Không thêm chỉ tiêu, nhiệm vụ hoặc thẩm quyền chỉ để câu v�
 ```
 
 **Kiểm tra cuối:** mỗi đoạn phục vụ đúng phần; mọi thay đổi nội dung có lý do; bảng đánh dấu và bản sạch thống nhất. Áp dụng [quy trình học phong cách](../huong-dan/hoc-phong-cach-va-phan-bien.md) khi có mẫu được phép sử dụng.
+
+## Truy nguồn từng số liệu trước khi viết nhận định
+
+```text
+Với từng số liệu trọng yếu trong [dự thảo], lập phiếu: phát biểu đang dùng | giá trị | loại số (mục tiêu/kịch bản/thực hiện/ước tính) | kỳ và phạm vi | đơn vị | văn bản gốc, ngày, trang hoặc bảng | trạng thái xác minh.
+
+Mở đúng tài liệu nguồn để kiểm tra; số xuất hiện trong câu lệnh, bản nháp hoặc trích đoạn không tự trở thành số đã kiểm chứng. Nếu có hai giá trị, giữ cả hai cùng nguồn và kỳ; kiểm tra khác biệt về mốc chốt, phạm vi hoặc phiên bản trước khi đề nghị chọn. Chỉ tính chênh lệch khi hai số so sánh được; phân biệt điểm phần trăm với tỷ lệ phần trăm thay đổi.
+
+Kết xuất hai phần: (1) câu có thể dùng, kèm căn cứ; (2) câu hoặc số cần xác minh, chỉ rõ tài liệu còn thiếu. Phân biệt kết quả quan sát được với nhận định nguyên nhân, tác động và trách nhiệm; nêu chứng cứ bổ sung có thể làm thay đổi nhận định.
+```
