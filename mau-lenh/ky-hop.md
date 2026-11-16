@@ -24,3 +24,13 @@ Tài liệu: [danh mục]. Mốc rà soát: [ngày]. Không tự bịa nội dun
 3. Ghi riêng trạng thái đề nghị, đã có hồ sơ, đã thống nhất đưa vào chương trình và đã được thông qua/ban hành; chỉ nâng trạng thái khi có nguồn xác nhận. Mâu thuẫn hoặc thiếu nguồn thì giữ cả hai thông tin kèm ngày và đề nghị xác minh.
 4. Đối chiếu số đầu kỳ + bổ sung − rút/chuyển/đã xử lý = số còn lại trong cùng phạm vi và mốc chốt. Liệt kê mã tạo chênh lệch. Tách báo cáo với dự thảo nghị quyết, phân biệt danh mục dự kiến với danh mục đã được quyết định.
 ```
+
+## Kiểm tra hai chiều giữa thông báo, phụ biểu và phân công thẩm tra
+
+```text
+Chốt phiên bản của [phần lời], [phụ biểu] và [phân công thẩm tra]. Đối chiếu từng mã nội dung theo hai chiều (lời sang biểu, biểu về lời) và kiểm tra từng phân công với danh mục hồ sơ. Nếu chưa ghép chắc chắn, giữ cả hai dòng và ghi cần xác nhận.
+
+Lập bảng lỗi: mã | mục/trang phần lời | tên biểu và dòng/ô | nội dung lệch hoặc thiếu | nguồn dùng để xác nhận | đề nghị sửa tại đâu | mức ảnh hưởng. Kiểm tra cả tên, loại hồ sơ, cơ quan trình, Ban chủ trì/phối hợp, thời hạn và tổng theo từng nhóm. Phân biệt mục gộp nhiều tài liệu, nội dung có điều kiện và nội dung chưa được phân công.
+
+Ưu tiên sai Ban, thiếu hồ sơ, lệch số tổng trước lỗi trình bày. Nếu không đọc được phụ biểu hoặc một phần tài liệu, ghi chưa kiểm tra được phần tương ứng; không báo khớp. Sau khi sửa, đối chiếu lại các dòng thay đổi và tổng liên quan.
+```
