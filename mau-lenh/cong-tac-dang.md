@@ -26,3 +26,17 @@ Hồ sơ: [liệt kê]. Nội dung cần ưu tiên: [điền].
 
 Đưa bảng nguyên văn – đề nghị sửa – lý do – nguồn. Nếu có hai cách hiểu (ý kiến của bên ban hành hay dẫn lại ý kiến), nêu cả hai và cách viết tương ứng. Kiểm tra nội dung và thẩm quyền trước, chính tả và thể thức sau. Dùng quy ước đánh dấu do người dùng chỉ định cho hồ sơ đó.
 ```
+
+## Kiểm tra chuỗi hội nghị, biểu quyết và đề xuất xếp loại
+
+Bổ sung ngày 23/11/2026 — phải đối chiếu hướng dẫn đúng đối tượng và thời điểm trước khi sử dụng.
+
+```text
+Từ [hướng dẫn, quy chế, chương trình, biên bản và phiếu được phép cung cấp], lập bảng riêng cho từng tập thể/cá nhân được đánh giá:
+bước | đối tượng đánh giá | hội nghị/chủ thể thực hiện | thành phần có quyền biểu quyết | nội dung biểu quyết | sản phẩm | chủ thể quyết định tiếp | điều/mục/trang quy định.
+Phân biệt tự đánh giá, đề xuất, biểu quyết và quyết định xếp loại. Không coi cùng người tham dự là cùng chủ thể hoặc cùng thẩm quyền.
+Đối với câu hỏi có phải biểu quyết lại hay không, chỉ kết luận khi có căn cứ áp dụng trực tiếp; không suy ra từ việc cấp sau phải nhận hồ sơ hoặc báo cáo. Nếu tài liệu chưa quy định rõ, nêu khoảng trống và nội dung cần xác minh.
+Đối chiếu số người có quyền biểu quyết, số tham dự, số phiếu phát/thu, hợp lệ/không hợp lệ và số phiếu theo từng lựa chọn. Tỷ lệ phải ghi cả tử số, mẫu số và quy định xác định mẫu số; không tự lấy số người dự họp làm mẫu số.
+Đối chiếu biên bản, phiếu, tờ trình, báo cáo và phụ lục chấm điểm; chỉ rõ chỗ khác nhau. Chưa diễn ra cuộc họp thì để trống kết quả, không dự đoán số phiếu.
+Điểm và tỷ lệ hoàn thành phải suy ra từ tiêu chí, nhiệm vụ giao và minh chứng cùng kỳ; không điều chỉnh số liệu để khớp mức xếp loại mong muốn.
+```
