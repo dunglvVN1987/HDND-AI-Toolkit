@@ -29,3 +29,16 @@ Không sử dụng nhóm B/C để khẳng định nghĩa vụ pháp lý dứt k
 Tách kết quả thành: quy định trực tiếp; nhận định áp dụng vào vụ việc và lý do; phương án đề xuất; điểm chưa thể kết luận.
 Khi rà soát danh mục chính sách/nghị quyết, phân biệt nội dung bắt buộc thực hiện theo quy định đã kiểm chứng, nội dung được lựa chọn theo điều kiện và nội dung đã có văn bản điều chỉnh. Kiểm tra phạm vi, đối tượng và hiệu lực trước khi kết luận cần ban hành mới; tránh đếm một chính sách ở nhiều nhóm.
 ```
+
+## Phản biện hai cách hiểu về một thủ tục
+
+Bổ sung ngày 23/11/2026 — phương pháp kiểm tra, không phải kết luận pháp lý cho hồ sơ cụ thể.
+
+```text
+Với câu hỏi [có phải thực hiện thủ tục X không], thời điểm [ngày], hãy kiểm tra độc lập cả cách hiểu có và không; không chỉ tìm nguồn bảo vệ kết luận tôi mong muốn.
+Lập bảng: từng nhóm nội dung dự thảo | điều kiện áp dụng | quy định trực tiếp và vị trí | lập luận ủng hộ | phản bác mạnh nhất | tình tiết còn thiếu | kết luận có điều kiện.
+Đọc toàn văn quy định gốc, sửa đổi, hướng dẫn và chuyển tiếp có liên quan. Tách yêu cầu của pháp luật với quy chế phối hợp hoặc cách thực hiện của địa phương; không coi số địa phương làm giống nhau là căn cứ xác lập nghĩa vụ chung.
+Với dự thảo sửa đổi, thay thế hoặc có nhiều nhóm nội dung, kiểm tra từng nhóm trước khi kết luận thủ tục cho toàn dự thảo.
+Nêu chứng cứ nào có thể làm thay đổi kết luận; khi chưa đủ nguồn, đề xuất cách xin ý kiến và xử lý tiến độ mà không tự đặt thêm hoặc bỏ thủ tục.
+Sau khi hồ sơ được giải quyết, lưu một bài học: điều kiện nào quyết định kết quả, nguồn đã kiểm chứng, ngoại lệ và ngày cần rà soát lại. Chỉ lưu quy tắc tổng quát được phép công bố vào kho chung.
+```
