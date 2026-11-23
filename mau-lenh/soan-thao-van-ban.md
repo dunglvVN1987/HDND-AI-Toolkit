@@ -40,3 +40,17 @@ Mở đúng tài liệu nguồn để kiểm tra; số xuất hiện trong câu 
 
 Kết xuất hai phần: (1) câu có thể dùng, kèm căn cứ; (2) câu hoặc số cần xác minh, chỉ rõ tài liệu còn thiếu. Phân biệt kết quả quan sát được với nhận định nguyên nhân, tác động và trách nhiệm; nêu chứng cứ bổ sung có thể làm thay đổi nhận định.
 ```
+
+## Kiểm đếm danh mục và kiểm tra nội dung còn là lời hướng dẫn
+
+Bổ sung ngày 23/11/2026.
+
+```text
+Trước khi rút gọn hoặc xuất [báo cáo], lập danh mục các sự kiện/sản phẩm được đếm: mã duy nhất | loại | ngày | kỳ thống kê | trạng thái | nguồn | chủ thể thực hiện.
+Đối chiếu tổng nêu trong lời văn với tổng thành phần, danh mục và phụ biểu. Kiểm tra nhóm bao hàm, trùng sản phẩm, khác kỳ và việc mới chuẩn bị so với đã hoàn thành. Nếu số tổng khác phép cộng, giữ dấu vết cả hai, nêu phép tính và tài liệu cần xác nhận; không tự sửa số để làm khớp.
+Với tỷ lệ vượt mức, xác định nhiệm vụ được giao làm mẫu số và kết quả thực tế làm tử số; kiểm tra khả năng so sánh, chất lượng và thời hạn. Không tự chọn mẫu số để đạt ngưỡng mong muốn.
+Rà các câu còn là hướng dẫn điền mẫu, chỗ trống hoặc lời nhắc biên tập. Tách chúng khỏi kết quả thực tế; không tự điền “không có” nếu chưa có xác nhận.
+Với thành tích giám sát, tách hoạt động đã làm, kiến nghị đã ban hành, kết quả thực hiện kiến nghị và tác động có chứng cứ; không suy từ số cuộc giám sát thành hiệu quả kinh tế đã đạt.
+Sau khi rút gọn, đối chiếu lại tổng, điều kiện, hạn chế và kiến nghị với bản nguồn. Khi xuất file, giữ nội dung đã chốt và quy ước đánh dấu của hồ sơ; kiểm tra bản sạch và bản đánh dấu thống nhất.
+Sau mỗi lần sửa, ghi một lỗi có thể tái diễn thành tình huống kiểm tra giả định để thử câu lệnh lần sau; không đưa số liệu hoặc hồ sơ nội bộ vào ví dụ công khai.
+```
